@@ -1,0 +1,30 @@
+.App{
+  text-align:center;
+  margin-top: 50px;
+  scroll-margin-right: 90px;
+  align-items:"right" ;
+}
+
+
+h1{
+  color:black;
+  text-align:center;
+  nav-up:initial;
+  font-size: 45px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+.img{
+  margin-bottom: 700px;
+}
+h2 {
+  border-style:outset;
+  min-height: 15vh;
+  margin-top: 100px;
+  text-align: center;
+  display:block;
+  flex-direction: column;
+  justify-content:initial;
+  font-size:x-large;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color:rgb(209, 16, 16);
+}
